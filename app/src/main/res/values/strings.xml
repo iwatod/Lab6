@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="move">Move</string>
+    <string name="sure">Sure?</string>
+    <string name="move_2">Move</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
